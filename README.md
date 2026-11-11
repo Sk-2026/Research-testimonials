@@ -29,9 +29,6 @@ and hands-on experience in:
 -   Explored the use of spectral information for agricultural analysis.
 -   This work was accepted at **WISPERS 2023**.
 
-**Available proof:** The WISPERS 2023 paper is not among the files
-listed in the current evidence folder. Add its PDF here when available.
-
 ### 2. Project Assistant --- From December 2023
 
 **Focus: UAV-Based Hyperspectral Image Analysis**
@@ -43,7 +40,7 @@ listed in the current evidence folder. Add its PDF here when available.
 -   This work helped establish the foundation for the subsequent
     automated HSI toolbox/pipeline work.
 
-**Available proof:** `patent_filed.pdf` is listed below as evidence of
+**Refer:** `patent_filed.pdf` is listed below as evidence of
 the related toolbox/pipeline patent filing. Confirm the exact
 project-to-patent mapping before making a formal claim.
 
@@ -57,7 +54,7 @@ project-to-patent mapping before making a formal claim.
     reusable.
 -   A patent was filed for the developed toolbox/pipeline.
 
-**Evidence:** `patent_filed.pdf`
+**Refer:** `patent_filed.pdf`
 
 ### 3.2. M.Tech --- May to August 2024(Summer Break)
 
@@ -83,7 +80,7 @@ project-to-patent mapping before making a formal claim.
 -   Worked with dash-camera-based perception.
 -   Studied traffic-sign recognition and road-scene understanding.
 
-**Available proof:** - `collision_warning_system.mp4` ---
+**Refer:** - `collision_warning_system.mp4` ---
 collision-warning demonstration. - `apcson_2025.pdf` --- 2025
 paper/proceedings document (see note in the evidence index).
 
@@ -95,7 +92,7 @@ paper/proceedings document (see note in the evidence index).
     Learning (RL)** for autonomous-driving/control scenarios.
 -   Continued work related to road-scene perception.
 
-**Available proof:** - `RL_MPC_15kmph.mp4` --- RL/MPC demonstration at
+**Refer:** - `RL_MPC_15kmph.mp4` --- RL/MPC demonstration at
 15 km/h. - `cvip_2025.pdf` --- CVIP 2025 paper/proceedings document.
 
 ### 3.6. M.Tech --- August to December 2025
@@ -108,7 +105,7 @@ paper/proceedings document (see note in the evidence index).
 -   Worked on comparative analysis of AEB approaches.
 -   Studied AIS-related requirements/standards.
 
-**Available proof:** - `AEB_60kmph.mp4` --- AEB demonstration at 60
+**Refer:** - `AEB_60kmph.mp4` --- AEB demonstration at 60
 km/h. - `ingars_2026.pdf` --- 2026 paper/proceedings document, retained
 under its supplied filename.
 
@@ -120,7 +117,7 @@ under its supplied filename.
 -   Contributed to framework development and training.
 -   Continued work towards an integrated autonomous-navigation system.
 
-**Related evidence:** - `icip_2026.pdf` --- 2026 paper/proceedings
+**Refer:** - `icip_2026.pdf` --- 2026 paper/proceedings
 document, retained under its supplied filename. -
 `multi owner recognition and gesture based control.mp4` ---
 demonstration of multi-owner recognition and gesture-based control.
@@ -133,7 +130,7 @@ demonstration of multi-owner recognition and gesture-based control.
 -   Focused on taking the developed framework towards real-world,
     real-time operation.
 
-**Available proof:** - `vtc_fall2026.pdf` --- Fall 2026
+**Refer:** - `vtc_fall2026.pdf` --- Fall 2026
 paper/proceedings document, retained under its supplied filename.
 
 ------------------------------------------------------------------------
