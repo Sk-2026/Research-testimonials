@@ -27,7 +27,7 @@ and hands-on experience in:
 -   Worked on hyperspectral imaging techniques for precision-agriculture
     applications.
 -   Explored the use of spectral information for agricultural analysis.
--   This work was accepted at **WISPEES 2023**.
+-   This work was accepted at **WISPERS 2023**.
 
 **Available proof:** The WISPERS 2023 paper is not among the files
 listed in the current evidence folder. Add its PDF here when available.
@@ -59,7 +59,7 @@ project-to-patent mapping before making a formal claim.
 
 **Evidence:** `patent_filed.pdf`
 
-### 3.2. M.Tech --- May to August 2024
+### 3.2. M.Tech --- May to August 2024(Summer Break)
 
 **Focus: Image Quality Assessment (IQA)**
 
@@ -87,7 +87,7 @@ project-to-patent mapping before making a formal claim.
 collision-warning demonstration. - `apcson_2025.pdf` --- 2025
 paper/proceedings document (see note in the evidence index).
 
-### 3.5. M.Tech --- May to August 2025
+### 3.5. M.Tech --- May to August 2025(Summer Break)
 
 **Focus: Model Predictive Control and Reinforcement Learning**
 
