@@ -18,7 +18,7 @@ and hands-on experience in:
 
 ------------------------------------------------------------------------
 
-## Work Timeline
+## My Research in a Glance !!
 
 ### 1. Internship --- Until July 2023
 
@@ -47,7 +47,7 @@ listed in the current evidence folder. Add its PDF here when available.
 the related toolbox/pipeline patent filing. Confirm the exact
 project-to-patent mapping before making a formal claim.
 
-### 3. M.Tech --- January to May 2024
+### 3.1. M.Tech --- January to May 2024
 
 **Focus: Automated HSI Pipeline and Patent**
 
@@ -59,14 +59,14 @@ project-to-patent mapping before making a formal claim.
 
 **Evidence:** `patent_filed.pdf`
 
-### 4. M.Tech --- May to August 2024
+### 3.2. M.Tech --- May to August 2024
 
 **Focus: Image Quality Assessment (IQA)**
 
 -   Worked on image-quality assessment.
 -   Explored **HiQE** for evaluating image quality.
 
-### 5. M.Tech --- August to December 2024
+### 3.3. M.Tech --- August to December 2024
 
 **Focus: HiJEPA and HiQE**
 
@@ -74,7 +74,7 @@ project-to-patent mapping before making a formal claim.
 -   Worked on **HiJEPA** and **HiQE**, extending the research direction
     around image representation and quality assessment.
 
-### 6. M.Tech --- January to May 2025
+### 3.4. M.Tech --- January to May 2025
 
 **Focus: Road-Scene Perception and Driver Assistance**
 
@@ -87,7 +87,7 @@ project-to-patent mapping before making a formal claim.
 collision-warning demonstration. - `apcson_2025.pdf` --- 2025
 paper/proceedings document (see note in the evidence index).
 
-### 7. M.Tech --- May to August 2025
+### 3.5. M.Tech --- May to August 2025
 
 **Focus: Model Predictive Control and Reinforcement Learning**
 
@@ -98,7 +98,7 @@ paper/proceedings document (see note in the evidence index).
 **Available proof:** - `RL_MPC_15kmph.mp4` --- RL/MPC demonstration at
 15 km/h. - `cvip_2025.pdf` --- CVIP 2025 paper/proceedings document.
 
-### 8. M.Tech --- August to December 2025
+### 3.6. M.Tech --- August to December 2025
 
 **Focus: Multi-Sensor Perception and Autonomous Emergency Braking**
 
@@ -112,7 +112,7 @@ paper/proceedings document (see note in the evidence index).
 km/h. - `ingars_2026.pdf` --- 2026 paper/proceedings document, retained
 under its supplied filename.
 
-### 9. M.Tech --- January to May 2026
+### 3.7. M.Tech --- January to May 2026
 
 **Focus: TiTAN Framework and Training**
 
@@ -125,7 +125,7 @@ document, retained under its supplied filename. -
 `multi owner recognition and gesture based control.mp4` ---
 demonstration of multi-owner recognition and gesture-based control.
 
-### 10. M.Tech --- May to December 2026
+### 3.8. M.Tech --- May to December 2026
 
 **Focus: TiTAN Real-Time Deployment**
 
@@ -137,11 +137,6 @@ demonstration of multi-owner recognition and gesture-based control.
 paper/proceedings document, retained under its supplied filename.
 
 ------------------------------------------------------------------------
-
-## Evidence and Proof Files
-
-The following files were supplied alongside this README. They are listed
-using their exact filenames.
 
 ### Papers and Research Documents
 
@@ -194,57 +189,3 @@ using their exact filenames.
     control, multi-sensor perception, and real-time autonomous
     navigation.
 
-> **Publication evidence note:** The filenames above identify the
-> documents supplied with this README. Please verify each PDF's title,
-> venue, publication status (accepted/published/under review), and
-> author position before using this README as a formal publication list.
-> The WISPEES 2023 paper and any other missing papers can be added when
-> their files are available.
-
-------------------------------------------------------------------------
-
-## Leadership and Responsibilities
-
--   **Mentor --- PRAYAS:** Mentored and supported student activities.
--   **Placement Coordinator --- OCS:** Contributed to placement-related
-    coordination.
--   **Team Lead --- TiHAN:** Took responsibility for team coordination
-    and project execution.
--   **Student President --- MVGR:** Served in a student leadership role.
-
-## Strengths
-
--   Adaptable
--   Perseverant
--   Patient
-
-## Interests
-
--   Photography
--   Meme creation
--   Fitness
--   Movies
-
-------------------------------------------------------------------------
-
-## Suggested Repository Layout
-
-Keep the README and evidence files together, or place the files in
-folders and update the links above.
-
-``` text
-project-journey/
-├── README.md
-├── papers/
-│   ├── apcson_2025.pdf
-│   ├── cvip_2025.pdf
-│   ├── icip_2026.pdf
-│   ├── ingars_2026.pdf
-│   ├── vtc_fall2026.pdf
-│   └── patent_filed.pdf
-└── videos/
-    ├── collision_warning_system.mp4
-    ├── RL_MPC_15kmph.mp4
-    ├── AEB_60kmph.mp4
-    └── multi owner recognition and gesture based control.mp4
-```
