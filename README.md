@@ -18,7 +18,7 @@ and hands-on experience in:
 
 ------------------------------------------------------------------------
 
-## My Research in a Glance !!
+## My Research Journey in a Glance !!
 
 ### 1. Internship --- Until July 2023
 
