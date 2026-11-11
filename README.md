@@ -155,8 +155,9 @@ paper/proceedings document, retained under its supplied filename.
   `vtc_fall2026.pdf`                  Fall 2026 paper/proceedings
                                       document.
 
-  `patent_filed.pdf`                  Patent-filing document for the
+   `patent_filed.pdf`                  Patent-filing document for the
                                       automated toolbox/pipeline work.
+                
   -----------------------------------------------------------------------
 
 ### Video Demonstrations
@@ -174,6 +175,7 @@ paper/proceedings document, retained under its supplied filename.
 
   `multi owner recognition and gesture based control.mp4`   Multi-owner recognition and
                                                             gesture-based control.
+                                                            
   ---------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -185,7 +187,7 @@ paper/proceedings document, retained under its supplied filename.
     -   4 as first co-author.
 -   Patent filed for the automated HSI toolbox/pipeline.
 -   Research and project work spanning hyperspectral imaging, image
-    quality assessment, road-scene perception, autonomous-driving
+    quality assessment, computer vision, road-scene perception, autonomous-driving
     control, multi-sensor perception, and real-time autonomous
     navigation.
 
